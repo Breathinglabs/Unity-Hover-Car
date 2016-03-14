@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b7658908e406bd4d99898884dd94dd7
+timeCreated: 1452511634
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Splatmap: {fileID: 2800000, guid: fcd47acf421696c42bcf704a9061a65f, type: 3}
+  - New: {fileID: 2800000, guid: 7697332aecc7ff947af399ee6c55ee2d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

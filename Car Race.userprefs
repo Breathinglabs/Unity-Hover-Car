@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\blowDrive.js">
+    <Files>
+      <File FileName="Assets\MicControl2\Source\Code\MicControl.js" Line="1" Column="1" />
+      <File FileName="Assets\HoverCar\HoverCarExtras\HoverCarControl.cs" Line="127" Column="6" />
+      <File FileName="Assets\HoverCar\HoverCarExtras\HoverAdvancedControls.js" Line="1" Column="1" />
+      <File FileName="..\..\BreathingLabs\Breathing Detection\Assets\MicControl2\Code reference\scaleObject.js" Line="1" Column="1" />
+      <File FileName="..\..\BreathingLabs\Unity-3D-Mic-Control-master\Assets\MicControl\Scripts\MicControlC.cs" Line="108" Column="1" />
+      <File FileName="Assets\Drive.js" Line="11" Column="2" />
+      <File FileName="Assets\blowDrive.js" Line="10" Column="21" />
+      <File FileName="Assets\MicControl2\Code reference\scaleObject.js" Line="10" Column="1" />
+      <File FileName="..\..\BreathingLabs\Breathing Detection\Assets\changeObject0.js" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
